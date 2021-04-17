@@ -7,3 +7,4 @@ i will try to type any things just to edit the release version from ver10.0.1.0 
 -
 -
 this change after remove credential from project configuration
+- change the default directory ....................................................................................
